@@ -1,0 +1,4 @@
+You were supposed to use weights list for biased die instead of manually setting the options list!
+
+lab: 100
+hw: 80

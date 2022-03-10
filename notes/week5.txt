@@ -1,0 +1,5 @@
+Well done with Lab!
+Short report is expected in HW!
+
+lab: 100
+hw: 80

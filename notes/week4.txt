@@ -1,0 +1,5 @@
+No HW found!
+Please check the attached possible solutions for lab in the discussion board. 
+
+hw: 0
+lab: 70

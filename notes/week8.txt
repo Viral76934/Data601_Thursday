@@ -1,0 +1,4 @@
+Start and end dates aren't formatted properly. Duration column isn't appended. 
+
+hw: 75
+lab: 100
